@@ -1,0 +1,4 @@
+C:\Users\SCHOOL\Downloads\ProDinner8.1\ProDinner8.1\Core\bin\Debug\Omu.ProDinner.Core.dll
+C:\Users\SCHOOL\Downloads\ProDinner8.1\ProDinner8.1\Core\bin\Debug\Omu.ProDinner.Core.pdb
+C:\Users\SCHOOL\Downloads\ProDinner8.1\ProDinner8.1\Core\obj\Debug\Omu.ProDinner.Core.dll
+C:\Users\SCHOOL\Downloads\ProDinner8.1\ProDinner8.1\Core\obj\Debug\Omu.ProDinner.Core.pdb

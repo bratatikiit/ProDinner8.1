@@ -1,0 +1,17 @@
+C:\Users\SCHOOL\Downloads\ProDinner8.1\ProDinner8.1\Infra\bin\Debug\Omu.ProDinner.Infra.dll
+C:\Users\SCHOOL\Downloads\ProDinner8.1\ProDinner8.1\Infra\bin\Debug\Omu.ProDinner.Infra.pdb
+C:\Users\SCHOOL\Downloads\ProDinner8.1\ProDinner8.1\Infra\bin\Debug\Castle.Core.dll
+C:\Users\SCHOOL\Downloads\ProDinner8.1\ProDinner8.1\Infra\bin\Debug\Castle.Windsor.dll
+C:\Users\SCHOOL\Downloads\ProDinner8.1\ProDinner8.1\Infra\bin\Debug\Omu.ProDinner.Resources.dll
+C:\Users\SCHOOL\Downloads\ProDinner8.1\ProDinner8.1\Infra\bin\Debug\Omu.ProDinner.Resources.pdb
+C:\Users\SCHOOL\Downloads\ProDinner8.1\ProDinner8.1\Infra\bin\Debug\Castle.Core.xml
+C:\Users\SCHOOL\Downloads\ProDinner8.1\ProDinner8.1\Infra\bin\Debug\Castle.Windsor.xml
+C:\Users\SCHOOL\Downloads\ProDinner8.1\ProDinner8.1\Infra\bin\Debug\de\Omu.ProDinner.Resources.resources.dll
+C:\Users\SCHOOL\Downloads\ProDinner8.1\ProDinner8.1\Infra\bin\Debug\es\Omu.ProDinner.Resources.resources.dll
+C:\Users\SCHOOL\Downloads\ProDinner8.1\ProDinner8.1\Infra\bin\Debug\fr\Omu.ProDinner.Resources.resources.dll
+C:\Users\SCHOOL\Downloads\ProDinner8.1\ProDinner8.1\Infra\bin\Debug\it\Omu.ProDinner.Resources.resources.dll
+C:\Users\SCHOOL\Downloads\ProDinner8.1\ProDinner8.1\Infra\bin\Debug\ro\Omu.ProDinner.Resources.resources.dll
+C:\Users\SCHOOL\Downloads\ProDinner8.1\ProDinner8.1\Infra\bin\Debug\ru\Omu.ProDinner.Resources.resources.dll
+C:\Users\SCHOOL\Downloads\ProDinner8.1\ProDinner8.1\Infra\obj\Debug\Infra.csprojResolveAssemblyReference.cache
+C:\Users\SCHOOL\Downloads\ProDinner8.1\ProDinner8.1\Infra\obj\Debug\Omu.ProDinner.Infra.dll
+C:\Users\SCHOOL\Downloads\ProDinner8.1\ProDinner8.1\Infra\obj\Debug\Omu.ProDinner.Infra.pdb

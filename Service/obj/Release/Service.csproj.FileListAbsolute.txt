@@ -1,0 +1,11 @@
+C:\Users\SCHOOL\Downloads\ProDinner8.1\ProDinner8.1\Service\bin\Release\Omu.ProDinner.Service.dll
+C:\Users\SCHOOL\Downloads\ProDinner8.1\ProDinner8.1\Service\bin\Release\Omu.ProDinner.Service.pdb
+C:\Users\SCHOOL\Downloads\ProDinner8.1\ProDinner8.1\Service\bin\Release\Omu.Drawing.dll
+C:\Users\SCHOOL\Downloads\ProDinner8.1\ProDinner8.1\Service\bin\Release\Omu.Encrypto.dll
+C:\Users\SCHOOL\Downloads\ProDinner8.1\ProDinner8.1\Service\bin\Release\Omu.ProDinner.Core.dll
+C:\Users\SCHOOL\Downloads\ProDinner8.1\ProDinner8.1\Service\bin\Release\Omu.ValueInjecter.dll
+C:\Users\SCHOOL\Downloads\ProDinner8.1\ProDinner8.1\Service\bin\Release\Omu.ProDinner.Core.pdb
+C:\Users\SCHOOL\Downloads\ProDinner8.1\ProDinner8.1\Service\bin\Release\Omu.ValueInjecter.xml
+C:\Users\SCHOOL\Downloads\ProDinner8.1\ProDinner8.1\Service\obj\Release\Service.csprojResolveAssemblyReference.cache
+C:\Users\SCHOOL\Downloads\ProDinner8.1\ProDinner8.1\Service\obj\Release\Omu.ProDinner.Service.dll
+C:\Users\SCHOOL\Downloads\ProDinner8.1\ProDinner8.1\Service\obj\Release\Omu.ProDinner.Service.pdb
