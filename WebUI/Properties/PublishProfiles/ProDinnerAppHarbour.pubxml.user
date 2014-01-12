@@ -1,0 +1,526 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>E:\AppHarbourPublishProDinner</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Castle.Core.dll">
+      <publishTime>02/25/2011 15:03:56</publishTime>
+    </File>
+    <File Include="bin/Castle.Windsor.dll">
+      <publishTime>02/25/2011 15:03:58</publishTime>
+    </File>
+    <File Include="bin/de/Omu.ProDinner.Resources.resources.dll">
+      <publishTime>01/10/2014 21:22:10</publishTime>
+    </File>
+    <File Include="bin/Elmah.dll">
+      <publishTime>03/12/2011 20:06:28</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>09/26/2012 07:28:33</publishTime>
+    </File>
+    <File Include="bin/es/Omu.ProDinner.Resources.resources.dll">
+      <publishTime>01/10/2014 21:22:10</publishTime>
+    </File>
+    <File Include="bin/fr/Omu.ProDinner.Resources.resources.dll">
+      <publishTime>01/10/2014 21:22:10</publishTime>
+    </File>
+    <File Include="bin/HtmlAgilityPack.dll">
+      <publishTime>01/29/2013 01:42:00</publishTime>
+    </File>
+    <File Include="bin/it/Omu.ProDinner.Resources.resources.dll">
+      <publishTime>01/10/2014 21:22:10</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>07/19/2012 10:59:52</publishTime>
+    </File>
+    <File Include="bin/Omu.AwesomeMvc.dll">
+      <publishTime>09/10/2013 02:31:29</publishTime>
+    </File>
+    <File Include="bin/Omu.Drawing.dll">
+      <publishTime>03/18/2011 23:34:08</publishTime>
+    </File>
+    <File Include="bin/Omu.Encrypto.dll">
+      <publishTime>03/28/2011 22:10:48</publishTime>
+    </File>
+    <File Include="bin/Omu.ProDinner.Core.dll">
+      <publishTime>01/10/2014 21:22:10</publishTime>
+    </File>
+    <File Include="bin/Omu.ProDinner.Data.dll">
+      <publishTime>01/10/2014 21:22:11</publishTime>
+    </File>
+    <File Include="bin/Omu.ProDinner.Infra.dll">
+      <publishTime>01/10/2014 21:22:10</publishTime>
+    </File>
+    <File Include="bin/Omu.ProDinner.Resources.dll">
+      <publishTime>01/10/2014 21:22:10</publishTime>
+    </File>
+    <File Include="bin/Omu.ProDinner.Service.dll">
+      <publishTime>01/10/2014 21:22:10</publishTime>
+    </File>
+    <File Include="bin/Omu.ProDinner.WebUI.dll">
+      <publishTime>01/10/2014 21:24:43</publishTime>
+    </File>
+    <File Include="bin/Omu.ValueInjecter.dll">
+      <publishTime>09/09/2011 01:40:28</publishTime>
+    </File>
+    <File Include="bin/ro/Omu.ProDinner.Resources.resources.dll">
+      <publishTime>01/10/2014 21:22:10</publishTime>
+    </File>
+    <File Include="bin/ru/Omu.ProDinner.Resources.resources.dll">
+      <publishTime>01/10/2014 21:22:10</publishTime>
+    </File>
+    <File Include="bin/System.Web.Abstractions.dll">
+      <publishTime>07/09/2012 00:40:10</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>07/10/2012 12:03:34</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>07/10/2012 21:51:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.Routing.dll">
+      <publishTime>07/09/2012 00:40:10</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>07/10/2012 12:03:34</publishTime>
+    </File>
+    <File Include="Content/broccoli.png">
+      <publishTime>03/09/2011 01:24:32</publishTime>
+    </File>
+    <File Include="Content/Common.css">
+      <publishTime>08/25/2013 02:57:20</publishTime>
+    </File>
+    <File Include="Content/dog.gif">
+      <publishTime>04/09/2011 16:58:26</publishTime>
+    </File>
+    <File Include="Content/dogs.gif">
+      <publishTime>04/09/2011 16:35:48</publishTime>
+    </File>
+    <File Include="Content/error-lolcat-problemz.jpg">
+      <publishTime>02/25/2011 15:04:00</publishTime>
+    </File>
+    <File Include="Content/error.png">
+      <publishTime>04/08/2011 23:57:42</publishTime>
+    </File>
+    <File Include="Content/Jcrop.gif">
+      <publishTime>07/21/2008 00:29:32</publishTime>
+    </File>
+    <File Include="Content/jquery.fileupload-ui.css">
+      <publishTime>04/11/2011 23:33:24</publishTime>
+    </File>
+    <File Include="Content/jquery.Jcrop.css">
+      <publishTime>04/20/2009 15:22:16</publishTime>
+    </File>
+    <File Include="Content/pbar-ani.gif">
+      <publishTime>04/08/2011 23:57:42</publishTime>
+    </File>
+    <File Include="Content/pros.png">
+      <publishTime>03/11/2011 00:14:06</publishTime>
+    </File>
+    <File Include="Content/strawberry.png">
+      <publishTime>03/09/2011 01:34:42</publishTime>
+    </File>
+    <File Include="Content/themes/black-tie/AwesomeMvc.css">
+      <publishTime>09/07/2013 20:31:18</publishTime>
+    </File>
+    <File Include="Content/themes/black-tie/awe_icons.png">
+      <publishTime>09/02/2013 16:34:22</publishTime>
+    </File>
+    <File Include="Content/themes/black-tie/awe_white.png">
+      <publishTime>10/05/2012 01:18:45</publishTime>
+    </File>
+    <File Include="Content/themes/black-tie/editdel_white.png">
+      <publishTime>10/05/2012 01:18:45</publishTime>
+    </File>
+    <File Include="Content/themes/black-tie/loading.gif">
+      <publishTime>09/02/2013 16:34:22</publishTime>
+    </File>
+    <File Include="Content/themes/black-tie/pm.png">
+      <publishTime>09/02/2013 16:34:22</publishTime>
+    </File>
+    <File Include="Content/themes/black-tie/Site.css">
+      <publishTime>10/05/2012 01:18:45</publishTime>
+    </File>
+    <File Include="Content/themes/bui/AwesomeMvc.css">
+      <publishTime>09/07/2013 20:31:18</publishTime>
+    </File>
+    <File Include="Content/themes/bui/awe_icons.png">
+      <publishTime>07/03/2013 19:16:44</publishTime>
+    </File>
+    <File Include="Content/themes/bui/editdel_black.png">
+      <publishTime>07/03/2013 19:16:44</publishTime>
+    </File>
+    <File Include="Content/themes/bui/loading.gif">
+      <publishTime>07/03/2013 19:16:44</publishTime>
+    </File>
+    <File Include="Content/themes/bui/pm.png">
+      <publishTime>07/03/2013 19:16:44</publishTime>
+    </File>
+    <File Include="Content/themes/bui/Site.css">
+      <publishTime>07/03/2013 19:16:44</publishTime>
+    </File>
+    <File Include="Content/themes/compact/AwesomeMvc.css">
+      <publishTime>09/07/2013 20:31:18</publishTime>
+    </File>
+    <File Include="Content/themes/compact/awe_gray.png">
+      <publishTime>10/06/2012 03:48:36</publishTime>
+    </File>
+    <File Include="Content/themes/compact/awe_icons.png">
+      <publishTime>09/02/2013 16:34:22</publishTime>
+    </File>
+    <File Include="Content/themes/compact/editdel_black.png">
+      <publishTime>07/03/2013 19:16:44</publishTime>
+    </File>
+    <File Include="Content/themes/compact/loading.gif">
+      <publishTime>09/02/2013 16:34:22</publishTime>
+    </File>
+    <File Include="Content/themes/compact/pm.png">
+      <publishTime>09/02/2013 16:34:22</publishTime>
+    </File>
+    <File Include="Content/themes/compact/Site.css">
+      <publishTime>07/03/2013 19:16:44</publishTime>
+    </File>
+    <File Include="Content/themes/gui/AwesomeMvc.css">
+      <publishTime>09/07/2013 20:31:18</publishTime>
+    </File>
+    <File Include="Content/themes/gui/awe_gray.png">
+      <publishTime>07/31/2012 17:49:42</publishTime>
+    </File>
+    <File Include="Content/themes/gui/awe_icons.png">
+      <publishTime>09/02/2013 16:34:24</publishTime>
+    </File>
+    <File Include="Content/themes/gui/editdel_black.png">
+      <publishTime>08/11/2012 15:25:05</publishTime>
+    </File>
+    <File Include="Content/themes/gui/loading.gif">
+      <publishTime>09/02/2013 16:34:24</publishTime>
+    </File>
+    <File Include="Content/themes/gui/pm.png">
+      <publishTime>09/02/2013 16:34:24</publishTime>
+    </File>
+    <File Include="Content/themes/gui/Site.css">
+      <publishTime>08/27/2012 20:29:12</publishTime>
+    </File>
+    <File Include="Content/themes/gui2/AwesomeMvc.css">
+      <publishTime>09/07/2013 20:31:18</publishTime>
+    </File>
+    <File Include="Content/themes/gui2/awe_gray.png">
+      <publishTime>09/20/2012 00:32:36</publishTime>
+    </File>
+    <File Include="Content/themes/gui2/awe_icons.png">
+      <publishTime>09/02/2013 16:34:24</publishTime>
+    </File>
+    <File Include="Content/themes/gui2/editdel_black.png">
+      <publishTime>09/20/2012 00:32:36</publishTime>
+    </File>
+    <File Include="Content/themes/gui2/loading.gif">
+      <publishTime>09/02/2013 16:34:24</publishTime>
+    </File>
+    <File Include="Content/themes/gui2/pm.png">
+      <publishTime>09/02/2013 16:34:24</publishTime>
+    </File>
+    <File Include="Content/themes/gui2/Site.css">
+      <publishTime>09/20/2012 00:32:37</publishTime>
+    </File>
+    <File Include="Content/themes/gui3/AwesomeMvc.css">
+      <publishTime>09/07/2013 20:31:18</publishTime>
+    </File>
+    <File Include="Content/themes/gui3/awe_icons.png">
+      <publishTime>09/02/2013 16:34:24</publishTime>
+    </File>
+    <File Include="Content/themes/gui3/awe_white.png">
+      <publishTime>09/18/2012 02:16:07</publishTime>
+    </File>
+    <File Include="Content/themes/gui3/editdel_white.png">
+      <publishTime>01/14/2012 01:12:54</publishTime>
+    </File>
+    <File Include="Content/themes/gui3/loading.gif">
+      <publishTime>09/02/2013 16:34:24</publishTime>
+    </File>
+    <File Include="Content/themes/gui3/pm.png">
+      <publishTime>09/02/2013 16:34:24</publishTime>
+    </File>
+    <File Include="Content/themes/gui3/Site.css">
+      <publishTime>08/27/2012 20:29:12</publishTime>
+    </File>
+    <File Include="Content/themes/met/AwesomeMvc.css">
+      <publishTime>09/07/2013 20:31:18</publishTime>
+    </File>
+    <File Include="Content/themes/met/awe_icons.png">
+      <publishTime>09/02/2013 16:34:24</publishTime>
+    </File>
+    <File Include="Content/themes/met/editdel.png">
+      <publishTime>08/07/2013 02:45:28</publishTime>
+    </File>
+    <File Include="Content/themes/met/loading.gif">
+      <publishTime>09/02/2013 16:34:24</publishTime>
+    </File>
+    <File Include="Content/themes/met/pm.png">
+      <publishTime>09/02/2013 16:34:24</publishTime>
+    </File>
+    <File Include="Content/themes/met/Site.css">
+      <publishTime>08/07/2013 02:45:28</publishTime>
+    </File>
+    <File Include="Content/themes/start/AwesomeMvc.css">
+      <publishTime>09/07/2013 20:31:18</publishTime>
+    </File>
+    <File Include="Content/themes/start/awe_icons.png">
+      <publishTime>09/02/2013 16:34:24</publishTime>
+    </File>
+    <File Include="Content/themes/start/awe_white.png">
+      <publishTime>10/04/2012 13:00:41</publishTime>
+    </File>
+    <File Include="Content/themes/start/editdel_white.png">
+      <publishTime>10/04/2012 13:00:41</publishTime>
+    </File>
+    <File Include="Content/themes/start/loading.gif">
+      <publishTime>09/02/2013 16:34:24</publishTime>
+    </File>
+    <File Include="Content/themes/start/pm.png">
+      <publishTime>09/02/2013 16:34:24</publishTime>
+    </File>
+    <File Include="Content/themes/start/Site.css">
+      <publishTime>10/04/2012 13:00:41</publishTime>
+    </File>
+    <File Include="Content/tip.png">
+      <publishTime>04/08/2011 01:20:54</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>02/26/2011 20:30:08</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>01/29/2013 01:42:01</publishTime>
+    </File>
+    <File Include="Scripts/AwesomeMvc.js">
+      <publishTime>09/10/2013 02:35:52</publishTime>
+    </File>
+    <File Include="Scripts/ckeditor/ckeditor.js">
+      <publishTime>01/08/2013 22:29:04</publishTime>
+    </File>
+    <File Include="Scripts/ckeditor/config.js">
+      <publishTime>01/08/2013 22:29:04</publishTime>
+    </File>
+    <File Include="Scripts/ckeditor/contents.css">
+      <publishTime>01/08/2013 22:29:04</publishTime>
+    </File>
+    <File Include="Scripts/jquery.fileupload-ui.js">
+      <publishTime>04/08/2011 23:57:38</publishTime>
+    </File>
+    <File Include="Scripts/jquery.fileupload.js">
+      <publishTime>04/08/2011 23:57:38</publishTime>
+    </File>
+    <File Include="Scripts/jquery.Jcrop.min.js">
+      <publishTime>04/20/2009 15:28:18</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>12/20/2011 01:28:34</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>11/29/2011 13:14:06</publishTime>
+    </File>
+    <File Include="Scripts/JSON2.js">
+      <publishTime>09/16/2012 01:21:04</publishTime>
+    </File>
+    <File Include="Scripts/Site.js">
+      <publishTime>07/31/2013 02:23:31</publishTime>
+    </File>
+    <File Include="Views/Account/SignIn.cshtml">
+      <publishTime>03/28/2011 22:10:48</publishTime>
+    </File>
+    <File Include="Views/ChangeTheme/index.cshtml">
+      <publishTime>01/17/2012 17:30:02</publishTime>
+    </File>
+    <File Include="Views/Chef/Create.cshtml">
+      <publishTime>03/12/2011 15:08:10</publishTime>
+    </File>
+    <File Include="Views/Chef/Index.cshtml">
+      <publishTime>06/27/2013 04:20:33</publishTime>
+    </File>
+    <File Include="Views/Country/Create.cshtml">
+      <publishTime>03/11/2011 00:14:02</publishTime>
+    </File>
+    <File Include="Views/Country/Index.cshtml">
+      <publishTime>06/27/2013 04:20:56</publishTime>
+    </File>
+    <File Include="Views/CountryIdLookup/item.cshtml">
+      <publishTime>03/18/2011 23:37:44</publishTime>
+    </File>
+    <File Include="Views/CountryIdLookup/SearchForm.cshtml">
+      <publishTime>03/02/2013 16:53:06</publishTime>
+    </File>
+    <File Include="Views/Error/Error.cshtml">
+      <publishTime>03/08/2011 00:22:46</publishTime>
+    </File>
+    <File Include="Views/Error/errorp.cshtml">
+      <publishTime>04/11/2011 23:33:22</publishTime>
+    </File>
+    <File Include="Views/Error/Expected.cshtml">
+      <publishTime>03/07/2011 23:58:28</publishTime>
+    </File>
+    <File Include="Views/Error/expectedp.cshtml">
+      <publishTime>03/08/2011 00:22:34</publishTime>
+    </File>
+    <File Include="Views/Error/HttpError404.cshtml">
+      <publishTime>02/25/2011 15:04:00</publishTime>
+    </File>
+    <File Include="Views/Error/HttpError505.cshtml">
+      <publishTime>02/25/2011 15:04:00</publishTime>
+    </File>
+    <File Include="Views/Feedback/Create.cshtml">
+      <publishTime>01/30/2013 03:36:05</publishTime>
+    </File>
+    <File Include="Views/Feedback/Index.cshtml">
+      <publishTime>02/07/2013 03:46:24</publishTime>
+    </File>
+    <File Include="Views/Home/About.cshtml">
+      <publishTime>03/03/2013 02:25:13</publishTime>
+    </File>
+    <File Include="Views/Home/create.cshtml">
+      <publishTime>02/07/2013 03:58:25</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>08/25/2013 03:01:15</publishTime>
+    </File>
+    <File Include="Views/Home/ShowGrid.cshtml">
+      <publishTime>02/19/2013 03:12:16</publishTime>
+    </File>
+    <File Include="Views/Meal/ChangePicture.ascx">
+      <publishTime>08/25/2012 20:59:06</publishTime>
+    </File>
+    <File Include="Views/Meal/Create.cshtml">
+      <publishTime>01/30/2013 04:17:11</publishTime>
+    </File>
+    <File Include="Views/Meal/Index.cshtml">
+      <publishTime>08/20/2013 03:30:15</publishTime>
+    </File>
+    <File Include="Views/Meal/ochangepicture.cshtml">
+      <publishTime>04/12/2011 02:00:14</publishTime>
+    </File>
+    <File Include="Views/Meal/ocrop.cshtml">
+      <publishTime>01/25/2012 17:16:44</publishTime>
+    </File>
+    <File Include="Views/Mui/Index.cshtml">
+      <publishTime>03/11/2011 00:14:04</publishTime>
+    </File>
+    <File Include="Views/Mui/Langs.cshtml">
+      <publishTime>03/11/2011 00:14:04</publishTime>
+    </File>
+    <File Include="Views/Nav/Index.cshtml">
+      <publishTime>01/23/2013 03:47:30</publishTime>
+    </File>
+    <File Include="Views/Shared/ChefGridActions.cshtml">
+      <publishTime>02/05/2013 05:33:18</publishTime>
+    </File>
+    <File Include="Views/Shared/deletebtn.cshtml">
+      <publishTime>02/01/2013 05:54:50</publishTime>
+    </File>
+    <File Include="Views/Shared/doggy.ascx">
+      <publishTime>01/25/2012 17:35:12</publishTime>
+    </File>
+    <File Include="Views/Shared/EditorTemplates/AjaxDropdown.aspx">
+      <publishTime>01/16/2012 17:28:12</publishTime>
+    </File>
+    <File Include="Views/Shared/EditorTemplates/Autocomplete.aspx">
+      <publishTime>01/16/2012 17:27:56</publishTime>
+    </File>
+    <File Include="Views/Shared/EditorTemplates/Boolean.aspx">
+      <publishTime>03/28/2011 22:10:48</publishTime>
+    </File>
+    <File Include="Views/Shared/EditorTemplates/CKEditor.aspx">
+      <publishTime>01/23/2013 03:29:02</publishTime>
+    </File>
+    <File Include="Views/Shared/EditorTemplates/DateTime.aspx">
+      <publishTime>01/30/2012 20:41:34</publishTime>
+    </File>
+    <File Include="Views/Shared/EditorTemplates/Dropdown.aspx">
+      <publishTime>02/25/2011 15:04:00</publishTime>
+    </File>
+    <File Include="Views/Shared/EditorTemplates/Enum.aspx">
+      <publishTime>02/25/2011 15:04:00</publishTime>
+    </File>
+    <File Include="Views/Shared/EditorTemplates/Int32.aspx">
+      <publishTime>08/27/2012 21:22:21</publishTime>
+    </File>
+    <File Include="Views/Shared/EditorTemplates/Lookup.aspx">
+      <publishTime>01/16/2012 17:26:20</publishTime>
+    </File>
+    <File Include="Views/Shared/EditorTemplates/MultiLookup.aspx">
+      <publishTime>01/16/2012 17:26:52</publishTime>
+    </File>
+    <File Include="Views/Shared/EditorTemplates/Password.aspx">
+      <publishTime>02/25/2011 15:04:00</publishTime>
+    </File>
+    <File Include="Views/Shared/EditorTemplates/String.aspx">
+      <publishTime>02/25/2011 15:04:00</publishTime>
+    </File>
+    <File Include="Views/Shared/EditorTemplates/Template.Master">
+      <publishTime>01/30/2013 03:31:39</publishTime>
+    </File>
+    <File Include="Views/Shared/EditorTemplates/TextArea.aspx">
+      <publishTime>01/30/2013 04:14:43</publishTime>
+    </File>
+    <File Include="Views/Shared/ListItems/Chef.cshtml">
+      <publishTime>08/28/2012 00:16:23</publishTime>
+    </File>
+    <File Include="Views/Shared/ListItems/ChefThead.cshtml">
+      <publishTime>01/15/2012 01:54:36</publishTime>
+    </File>
+    <File Include="Views/Shared/ListItems/Country.cshtml">
+      <publishTime>02/01/2013 04:46:31</publishTime>
+    </File>
+    <File Include="Views/Shared/ListItems/Dinner.cshtml">
+      <publishTime>07/05/2013 20:18:49</publishTime>
+    </File>
+    <File Include="Views/Shared/ListItems/Feedback.cshtml">
+      <publishTime>01/30/2013 03:33:59</publishTime>
+    </File>
+    <File Include="Views/Shared/ListItems/Meal.cshtml">
+      <publishTime>08/20/2013 03:30:42</publishTime>
+    </File>
+    <File Include="Views/Shared/ListItems/MealItem.cshtml">
+      <publishTime>10/19/2012 01:45:37</publishTime>
+    </File>
+    <File Include="Views/Shared/ListItems/User.cshtml">
+      <publishTime>08/28/2012 00:14:18</publishTime>
+    </File>
+    <File Include="Views/Shared/ListItems/UserThead.cshtml">
+      <publishTime>07/05/2013 20:07:04</publishTime>
+    </File>
+    <File Include="Views/Shared/login.ascx">
+      <publishTime>03/26/2011 20:20:24</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>08/25/2013 03:10:44</publishTime>
+    </File>
+    <File Include="Views/Stuff/Index.cshtml">
+      <publishTime>10/13/2012 21:24:03</publishTime>
+    </File>
+    <File Include="Views/User/ChangePassword.cshtml">
+      <publishTime>03/26/2011 14:15:28</publishTime>
+    </File>
+    <File Include="Views/User/Create.cshtml">
+      <publishTime>03/27/2011 01:01:24</publishTime>
+    </File>
+    <File Include="Views/User/edit.cshtml">
+      <publishTime>03/27/2011 01:01:14</publishTime>
+    </File>
+    <File Include="Views/User/Index.cshtml">
+      <publishTime>02/05/2013 05:25:45</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>09/26/2012 05:05:20</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>02/25/2011 15:04:00</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/10/2014 21:18:00</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
